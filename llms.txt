@@ -1,0 +1,10 @@
+# 꿀템세끼
+
+> 20초 만에 보는 살림·차량·주방 꿀템. 뉴스, AI 소식, 생활 지식, 영화·드라마 이야기를 1분 영상으로 소개합니다.
+
+## 주요 페이지
+- [채널 소개](https://liquir23-hub.github.io/ggultem3kki/): 업로드 시간표와 최근 영상
+- [전체 영상](https://liquir23-hub.github.io/ggultem3kki/videos.html): 분야별 영상 목록
+- [추천템](https://liquir23-hub.github.io/ggultem3kki/picks.html): 영상에서 소개한 상품 (쿠팡 파트너스 등 제휴 링크)
+
+## 최근 영상
